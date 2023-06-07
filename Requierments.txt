@@ -1,3 +1,8 @@
 ◘Name
 ◘Adress
 ◘School/Collage
+
+
+•Ph-Number
+•Mobile
+•Age
